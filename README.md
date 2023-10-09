@@ -2,7 +2,7 @@
 Aplicación web para buscar películas en base a su título. Permite ordenar alfabéticamente. Se realizó el ejercicio para practicar useState, Custom Hooks, useCallback y useMemo.  
 
 ## URL  
-
+https://react-buscador-de-peliculas.netlify.app/  
 
 ## API a usar:  
 https://www.omdbapi.com/ Consigue la API Key en la propia página web registrando tu email.  
